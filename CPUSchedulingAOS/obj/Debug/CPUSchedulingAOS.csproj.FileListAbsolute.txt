@@ -1,0 +1,7 @@
+C:\Users\Mausham\source\repos\CPUSchedulingAOS\CPUSchedulingAOS\bin\Debug\CPUSchedulingAOS.exe.config
+C:\Users\Mausham\source\repos\CPUSchedulingAOS\CPUSchedulingAOS\bin\Debug\CPUSchedulingAOS.exe
+C:\Users\Mausham\source\repos\CPUSchedulingAOS\CPUSchedulingAOS\bin\Debug\CPUSchedulingAOS.pdb
+C:\Users\Mausham\source\repos\CPUSchedulingAOS\CPUSchedulingAOS\obj\Debug\CPUSchedulingAOS.csprojResolveAssemblyReference.cache
+C:\Users\Mausham\source\repos\CPUSchedulingAOS\CPUSchedulingAOS\obj\Debug\CPUSchedulingAOS.csproj.CoreCompileInputs.cache
+C:\Users\Mausham\source\repos\CPUSchedulingAOS\CPUSchedulingAOS\obj\Debug\CPUSchedulingAOS.exe
+C:\Users\Mausham\source\repos\CPUSchedulingAOS\CPUSchedulingAOS\obj\Debug\CPUSchedulingAOS.pdb
